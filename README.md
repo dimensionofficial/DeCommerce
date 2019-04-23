@@ -1,2 +1,2 @@
-# Dimension-Notary
-One of the applications based on the DImension chain
+# DeBizzar
+Enterprise appication based on blockchain
