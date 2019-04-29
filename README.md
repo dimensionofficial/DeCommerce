@@ -1,11 +1,11 @@
 # DeCommerce
 Enterprise appication based on blockchain
 
-# Application  
+## Application  
 
 DeCommerce, a decentralized commercial framework, focuses on enterprise-grade decentralized service networks, including the data storage system - DeCloud, the computing framework - DeRender, and the data trading framework - DeTrade, which provides multi-party collaborative participation for business users and ensures the privacy and security of data and transaction. 
 
-# FrameWork Diagram 
+## FrameWork Diagram 
 
 ![DeComFrame](Pic/DeComFrame.png)
 
