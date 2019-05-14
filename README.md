@@ -16,12 +16,9 @@ DeCommerce, a decentralized commercial framework, focuses on providing enterpris
 - DeCommerce
 |-- DeCloud
 |   |   `-- DeSign
-|   |   `-- Hash_Data
-|       `-- OffChain_Data
 |-- DeRender
 |   |   `-- HE
 |       `-- SMPC
 |-- DeTrade
 |   |   `-- Data_Trade
-|       `-- Transaction_Query
 ```
